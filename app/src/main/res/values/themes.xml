@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.Tenantmanagementsystem2" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.Tenantmanagementsystem2" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#1F4E79</item>
+        <item name="colorPrimaryVariant">#153654</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
 </resources>
